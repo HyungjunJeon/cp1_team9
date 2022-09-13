@@ -30,7 +30,9 @@
 
 ### AWS EC2(Deploy)
 
-#### - imgstyle.shop 으로 배포 진행 ( 현재는 닫혀있음 )
+#### - AWS EC2 인스턴스 내부에 Docker Container를 동작시키고 포트포워딩.
+
+#### - imgstyle.shop 으로 배포 진행.
 
 # 동작
 
