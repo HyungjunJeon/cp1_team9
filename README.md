@@ -32,7 +32,7 @@
 
 #### - AWS EC2 인스턴스 내부에 Docker Container를 동작시키고 포트포워딩.
 
-#### - imgstyle.shop 으로 배포 진행.
+#### - imgstyle.shop 으로 배포 진행. (현재는 DB 닫힘으로 인해 접속 불가)
 
 # 동작
 
