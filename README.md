@@ -40,6 +40,9 @@
 
 ### 2. manage.py 가 있는 폴더로 이동 후 CLI "python3 manage.py runserver" 를 진행하면 실행됨.
 
+# 동작 예시
+![의류 추천 서비스 시연](https://user-images.githubusercontent.com/65811799/200488047-752a57a2-91cb-48a6-855f-65cc1e0bb966.gif)
+
 # Web 소개
 
 ### 1. Information : 각 메뉴에 대한 간략적 소개 작성
